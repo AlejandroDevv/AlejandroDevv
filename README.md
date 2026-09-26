@@ -16,7 +16,7 @@ Tenho desenvolvido projetos práticos utilizando JavaScript, React, TypeScript, 
 - Git e GitHub
 - Firebase
 
-- ## 💻 Projetos em destaque
+## 💻 Projetos em destaque
 
 - 🎬 **Prime Flix** — Aplicação desenvolvida com React para consulta e exibição de filmes através de uma API.
 - 🪙 **Criptomoedas** — Aplicação desenvolvida com React e TypeScript para consulta e visualização de dados de criptomoedas.
@@ -30,7 +30,7 @@ Tenho desenvolvido projetos práticos utilizando JavaScript, React, TypeScript, 
 - 🛠️ Desenvolvendo projetos práticos para aprimorar minhas habilidades em Front-end.
 - 🚀 Buscando minha primeira oportunidade profissional como Desenvolvedor Front-end Júnior.
 
-- ## 📫 Onde me encontrar
+## 📫 Onde me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/alejandro-oliveira/)
 
