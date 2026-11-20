@@ -11,8 +11,8 @@ HTML5 • CSS3 • JavaScript • TypeScript • React • React Router • Vite
 | Projeto | Descrição | Tecnologias | Links |
 |---|---|---|---|
 | 🎬 **Prime Flix** | Consulta e exibição de filmes via API, com lista de favoritos | React, JavaScript | [Deploy](https://prime-flix-theta.vercel.app/) · [Código](https://github.com/AlejandroDevv/Prime_Flix) |
-| 🪙 **Criptomoedas** | Preço, valor de mercado e variação em 24h, com busca e página de detalhes | React, TypeScript, Vite | [Deploy](https://criptomoeda-inky.vercel.app/) · [Código]([link](https://github.com/AlejandroDevv/criptomoeda) |
-| 🔗 **mLinktree** | Página de links responsiva, inspirada no Linktree | React, TypeScript, Tailwind CSS | [Deploy][(link)](https://mlinktree.vercel.app/) · [Código](https://github.com/AlejandroDevv/mlinktree) |
+| 🪙 **Criptomoedas** | Preço, valor de mercado e variação em 24h, com busca e página de detalhes | React, TypeScript, Vite | [Deploy](https://criptomoeda-inky.vercel.app/) · [Código](https://github.com/AlejandroDevv/criptomoeda) |
+| 🔗 **mLinktree** | Página de links responsiva, inspirada no Linktree | React, TypeScript, Tailwind CSS | [Deploy](https://mlinktree.vercel.app/) · [Código](https://github.com/AlejandroDevv/mlinktree) |
 | ⛽ **Gasolina ou Etanol** | Compara os preços e indica a melhor opção pela regra dos 70% | React, TypeScript | [Deploy](https://gasolina-etanol.vercel.app/) · [Código](https://github.com/AlejandroDevv/Gasolina-etanol) |
 
 
